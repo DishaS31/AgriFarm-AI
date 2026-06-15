@@ -36,7 +36,7 @@ const Navbar = () => {
             : 'bg-black/10 backdrop-blur-sm'
         }`}
       >
-        <div className="max-w-full mx-auto px-8 py-5">
+        <div className="max-w-full mx-auto px-6">
           <div className="flex items-center justify-between">
 
             {/* Logo */}
